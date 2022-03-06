@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    height: 500px;
+    
+}
+h1{
+    font-size: 50px;
+}
+.sp-color{
+    color: rgba(145, 255, 0, 0.87);
+}
+.half-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+    background-size: cover;
+    
+}
+.half-div img{
+    width: 100%;
+    height: 480px;
+    padding-top: 10px;
+
+}
